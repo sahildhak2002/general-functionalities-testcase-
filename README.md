@@ -17,7 +17,7 @@ Logout Functionality
 
 Each feature was tested through multiple test scenarios, including both positive test cases (valid inputs and expected workflows) and negative test cases (invalid inputs, blank fields, incorrect actions). This ensures comprehensive coverage and helps identify any validation issues, broken flows, or missing error handling.
 
-🧪 Features Tested:
+# Features Tested:
 Login Page
 Verified authentication with correct and incorrect credentials, blank submissions, and handling of unregistered users.
 
@@ -39,7 +39,7 @@ Verified sorting options, single/multiple filter combinations, and clearing filt
 Logout Functionality
 Ensured user is logged out securely, session is cleared, and back navigation is restricted after logout.
 
-💻 Test Environment:
+# Test Environment:
 Device: ASUS Laptop
 
 Operating System: Windows 11
@@ -50,7 +50,7 @@ Browser Used: Google Chrome (latest version)
 
 Screen Resolution: 1920x1080
 
-✅ Objective:
+# Objective:
 The objective of these test cases is to confirm that all general functionalities of the application are working as intended across standard user environments. This testing ensures a smooth user experience and identifies any defects in key workflows early in the development cycle.
 
 All test results are documented with expected outputs and pass/fail status to support quality assurance, debugging, and future automation.
