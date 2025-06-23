@@ -1,4 +1,4 @@
-# general-functionalities-testcase-
+# general-functionalities-testcases-
 This test document focuses on verifying the core functionalities of the application that are crucial for user interaction and navigation. These include modules that are present in almost every modern web or mobile application, such as:
 
 Login Page
